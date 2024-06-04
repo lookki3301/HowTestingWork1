@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSumAndRaz", "FindSumAndRaz.csproj", "{DF459D32-2BA1-4A27-9D4A-F95F5E753966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingSumAndRaz", "..\TestingSumAndRaz\TestingSumAndRaz.csproj", "{43610B60-B7F4-4C27-B809-84AF3C59375F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF459D32-2BA1-4A27-9D4A-F95F5E753966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF459D32-2BA1-4A27-9D4A-F95F5E753966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF459D32-2BA1-4A27-9D4A-F95F5E753966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF459D32-2BA1-4A27-9D4A-F95F5E753966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43610B60-B7F4-4C27-B809-84AF3C59375F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43610B60-B7F4-4C27-B809-84AF3C59375F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43610B60-B7F4-4C27-B809-84AF3C59375F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43610B60-B7F4-4C27-B809-84AF3C59375F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDFF9DDE-42D8-486B-9ABF-8AFF69359A6F}
+	EndGlobalSection
+EndGlobal

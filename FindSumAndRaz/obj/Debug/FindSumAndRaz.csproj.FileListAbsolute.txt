@@ -1,0 +1,8 @@
+C:\Myprogg\FindSumAndRaz\FindSumAndRaz\bin\Debug\FindSumAndRaz.exe.config
+C:\Myprogg\FindSumAndRaz\FindSumAndRaz\bin\Debug\FindSumAndRaz.exe
+C:\Myprogg\FindSumAndRaz\FindSumAndRaz\bin\Debug\FindSumAndRaz.pdb
+C:\Myprogg\FindSumAndRaz\FindSumAndRaz\obj\Debug\FindSumAndRaz.csproj.AssemblyReference.cache
+C:\Myprogg\FindSumAndRaz\FindSumAndRaz\obj\Debug\FindSumAndRaz.csproj.SuggestedBindingRedirects.cache
+C:\Myprogg\FindSumAndRaz\FindSumAndRaz\obj\Debug\FindSumAndRaz.csproj.CoreCompileInputs.cache
+C:\Myprogg\FindSumAndRaz\FindSumAndRaz\obj\Debug\FindSumAndRaz.exe
+C:\Myprogg\FindSumAndRaz\FindSumAndRaz\obj\Debug\FindSumAndRaz.pdb
